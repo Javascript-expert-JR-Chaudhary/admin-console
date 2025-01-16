@@ -1,0 +1,371 @@
+{
+    "dashboardChip": [
+        {
+            "count": "379",
+            "label": "# New Units"
+        },
+        {
+            "count": "$13,023,46",
+            "label": "New MSRP"
+        },
+        {
+            "count": "$52,882",
+            "label": "New Avg. MSRP"
+        },
+        {
+            "count": "67",
+            "label": "# Used Units"
+        },
+        {
+            "count": "$1,576,456",
+            "label": "Used MSRP"
+        },
+        {
+            "count": "$23,351",
+            "label": "Used Avg. MSRP"
+        },
+        {
+            "count": "1",
+            "label": "# CPO Units"
+        },
+        {
+            "count": "$31,200",
+            "label": "CPO MSRP"
+        }
+    ],
+    "historyList": [
+        {
+            "id": 1,
+            "date": "2025-01-10",
+            "newInvetory": 234,
+            "totalMSRP": "$9,109,873",
+            "avgMSRP": "$37,800",
+            "usedInventory": 87,
+            "usedTotalMSRP": "$27,409",
+            "usedAvgMSRP": "$25,735"
+        },
+        {
+            "id": 2,
+            "date": "2025-01-12",
+            "newInvetory": 200,
+            "totalMSRP": "$9,109,873",
+            "avgMSRP": "$37,800",
+            "usedInventory": 87,
+            "usedTotalMSRP": "$27,409",
+            "usedAvgMSRP": "$25,735"
+        },
+        {
+            "id": 3,
+            "date": "2025-01-14",
+            "newInvetory": 234,
+            "totalMSRP": "$9,109,873",
+            "avgMSRP": "$37,800",
+            "usedInventory": 87,
+            "usedTotalMSRP": "$27,409",
+            "usedAvgMSRP": "$25,735"
+        },
+        {
+            "id": 4,
+            "date": "2025-01-15",
+            "newInvetory": 149,
+            "totalMSRP": "$9,109,873",
+            "avgMSRP": "$37,800",
+            "usedInventory": 87,
+            "usedTotalMSRP": "$27,409",
+            "usedAvgMSRP": "$25,735"
+        },
+        {
+            "id": 5,
+            "date": "2025-01-17",
+            "newInvetory": 223,
+            "totalMSRP": "$9,109,873",
+            "avgMSRP": "$37,800",
+            "usedInventory": 87,
+            "usedTotalMSRP": "$27,409",
+            "usedAvgMSRP": "$25,735"
+        },
+        {
+            "id": 6,
+            "date": "2025-01-18",
+            "newInvetory": 334,
+            "totalMSRP": "$9,109,873",
+            "avgMSRP": "$37,800",
+            "usedInventory": 87,
+            "usedTotalMSRP": "$27,409",
+            "usedAvgMSRP": "$25,735"
+        },
+        {
+            "id": 7,
+            "date": "2025-01-20",
+            "newInvetory": 394,
+            "totalMSRP": "$9,109,873",
+            "avgMSRP": "$37,800",
+            "usedInventory": 87,
+            "usedTotalMSRP": "$27,409",
+            "usedAvgMSRP": "$25,735"
+        },
+        {
+            "id": 8,
+            "date": "2025-01-22",
+            "newInvetory": 120,
+            "totalMSRP": "$9,109,873",
+            "avgMSRP": "$37,800",
+            "usedInventory": 87,
+            "usedTotalMSRP": "$27,409",
+            "usedAvgMSRP": "$25,735"
+        },
+        {
+            "id": 9,
+            "date": "2025-01-25",
+            "newInvetory": 250,
+            "totalMSRP": "$9,109,873",
+            "avgMSRP": "$37,800",
+            "usedInventory": 87,
+            "usedTotalMSRP": "$27,409",
+            "usedAvgMSRP": "$25,735"
+        },
+        {
+            "id": 10,
+            "date": "2025-01-28",
+            "newInvetory": 320,
+            "totalMSRP": "$9,109,873",
+            "avgMSRP": "$37,800",
+            "usedInventory": 87,
+            "usedTotalMSRP": "$27,409",
+            "usedAvgMSRP": "$25,735"
+        }
+    ],
+    "invetoryCount": {
+        "NEW": {
+            "labels": [
+                "2025-01-2",
+                "2025-01-12",
+                "2025-01-14",
+                "2025-01-15",
+                "2025-01-17",
+                "2025-01-18",
+                "2025-01-19",
+                "2025-02-22",
+                "2025-02-25",
+                "2025-02-26"
+            ],
+            "datasets": [
+                {
+                    "label": "NEW Inventory",
+                    "data": [
+                        420,
+                        450,
+                        250,
+                        270,
+                        320,
+                        470,
+                        260,
+                        440,
+                        320,
+                        330,
+                        480
+                    ],
+                    "backgroundColor": "#ff9926",
+                    "borderColor": "rgba(75, 192, 192, 1)",
+                    "borderWidth": 1,
+                    "categoryPercentage": 0.5
+                }
+            ]
+        },
+        "USED": {
+            "labels": [
+                "2025-01-20",
+                "2025-01-22",
+                "2025-01-24",
+                "2025-01-25",
+                "2025-01-27",
+                "2025-01-28",
+                "2025-01-29",
+                "2025-02-22",
+                "2025-02-25",
+                "2025-02-26"
+            ],
+            "datasets": [
+                {
+                    "label": "USED Inventory",
+                    "data": [
+                        220,
+                        250,
+                        350,
+                        470,
+                        420,
+                        270,
+                        260,
+                        240,
+                        420,
+                        430,
+                        380
+                    ],
+                    "backgroundColor": "#ff9926",
+                    "borderColor": "rgba(75, 192, 192, 1)",
+                    "borderWidth": 1,
+                    "categoryPercentage": 0.5
+                }
+            ]
+        },
+        "CPO": {
+            "labels": [
+                "2025-01-10",
+                "2025-01-12",
+                "2025-01-14",
+                "2025-01-15",
+                "2025-01-17",
+                "2025-01-18",
+                "2025-01-20",
+                "2025-01-22",
+                "2025-01-25",
+                "2025-01-28"
+            ],
+            "datasets": [
+                {
+                    "label": "CPO Inventory",
+                    "data": [
+                        320,
+                        350,
+                        450,
+                        270,
+                        320,
+                        470,
+                        460,
+                        440,
+                        220,
+                        330,
+                        280
+                    ],
+                    "backgroundColor": "#ff9926",
+                    "borderColor": "rgba(75, 192, 192, 1)",
+                    "borderWidth": 1,
+                    "categoryPercentage": 0.5
+                }
+            ]
+        }
+    },
+    "avgInUSD": {
+        "NEW": {
+            "labels": [
+                "2025-01-2",
+                "2025-01-12",
+                "2025-01-14",
+                "2025-01-15",
+                "2025-01-17",
+                "2025-01-18",
+                "2025-01-19",
+                "2025-02-22",
+                "2025-02-25",
+                "2025-02-26"
+            ],
+            "datasets": [
+                {
+                    "label": "Average NEW MSRP in USD",
+                    "data": [
+                        220,
+                        250,
+                        350,
+                        470,
+                        420,
+                        270,
+                        260,
+                        240,
+                        420,
+                        430,
+                        380
+                    ],
+                    "backgroundColor": "#ff9926",
+                    "borderColor": "rgba(75, 192, 192, 1)",
+                    "borderWidth": 1,
+                    "categoryPercentage": 0.5
+                }
+            ]
+        },
+        "USED": {
+            "labels": [
+                "2025-01-20",
+                "2025-01-22",
+                "2025-01-24",
+                "2025-01-25",
+                "2025-01-27",
+                "2025-01-28",
+                "2025-01-29",
+                "2025-02-22",
+                "2025-02-25",
+                "2025-02-26"
+            ],
+            "datasets": [
+                {
+                    "label": "Average USED MSRP in USD",
+                    "data": [
+                        320,
+                        350,
+                        450,
+                        270,
+                        320,
+                        470,
+                        460,
+                        440,
+                        220,
+                        330,
+                        280
+                    ],
+                    "backgroundColor": "#ff9926",
+                    "borderColor": "rgba(75, 192, 192, 1)",
+                    "borderWidth": 1,
+                    "categoryPercentage": 0.5
+                }
+            ]
+        },
+        "CPO": {
+            "labels": [
+                "2025-01-10",
+                "2025-01-12",
+                "2025-01-14",
+                "2025-01-15",
+                "2025-01-17",
+                "2025-01-18",
+                "2025-01-20",
+                "2025-01-22",
+                "2025-01-25",
+                "2025-01-28"
+            ],
+            "datasets": [
+                {
+                    "label": "Average CPO MSRP in USD",
+                    "data": [
+                        420,
+                        450,
+                        250,
+                        270,
+                        320,
+                        470,
+                        260,
+                        440,
+                        320,
+                        330,
+                        480
+                    ],
+                    "backgroundColor": "#ff9926",
+                    "borderColor": "rgba(75, 192, 192, 1)",
+                    "borderWidth": 1,
+                    "categoryPercentage": 0.5
+                }
+            ]
+        }
+    },
+    "chartOptions": {
+        "responsive": true,
+        "plugins": {
+            "title": {
+                "display": false
+            }
+        },
+        "maintainAspectRatio": false,
+        "height": 400,
+        "legend": {
+            "display": false
+        }
+    }
+}

@@ -1,0 +1,144 @@
+.admin-app {
+  font-family: Roboto;
+  background-color: #f5f5f5;
+}
+.navbar-cnt {
+  background-color: #404041;
+  font-family: Roboto;
+  .logo-label {
+    .title {
+      color: #fff;
+      font-size: 20px;
+      margin: 0 11px;
+      font-weight: 500;
+      line-height: 23.44px;
+      text-align: left;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+    }
+    .admin-view {
+      padding: 3px 7px 3px 7px;
+      border-radius: 12px;
+      background-color: #fff;
+      color: #393939;
+      font-size: 10px;
+      font-weight: 500;
+      line-height: 14.3px;
+      letter-spacing: 0.17000000178813934px;
+      text-align: left;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+    }
+  }
+  .support {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.75px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #fff;
+    img {
+      margin-right: 8px;
+    }
+  }
+}
+
+.main-layout {
+  font-family: Roboto;
+  background-color: #f5f5f5;
+  .count-chip {
+    display: flex;
+    justify-content: space-between;
+    .card-body {
+      padding: 30px 24px;
+      .count {
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 28.13px;
+        color: #000;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+      }
+      .label {
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 18.75px;
+        text-align: left;
+        margin-top: 5px;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: #ff9926;
+      }
+    }
+  }
+
+  tabel thead th {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0.17000000178813934px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000;
+  }
+
+  .paginator-cnt {
+    background-color: #fff;
+    display: flex;
+    padding-top: 8px;
+    justify-content: flex-end;
+    .pagination {
+      page-item.active .page-link {
+        color: #000;
+      }
+      .page-link {
+        background-color: transparent;
+        color: #000 !important;
+        border: 0;
+      }
+    }
+  }
+}
+
+.main-header {
+  font-family: Roboto;
+  font-size: 34px;
+  font-weight: 500;
+  line-height: 39.84px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #000;
+  margin-top: 20px;
+  padding: 17px 0;
+  border-bottom: 2px solid #d2d2d2;
+}
+
+.sub-header {
+  font-family: Roboto;
+  margin: 25px 0;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22.88px;
+  letter-spacing: 0.17000000178813934px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #000;
+  button {
+    padding: 0px 16px 0px 16px;
+    border-radius: 4px;
+    margin-left: 10px;
+    border: 1px solid #ff9926;
+    &.active {
+      background-color: #ff9926;
+    }
+  }
+}
+
+.chart-cnt {
+  height: 350px;
+}
